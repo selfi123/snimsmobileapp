@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482126041881",
+    "project_id": "flutter-hosmngment",
+    "storage_bucket": "flutter-hosmngment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482126041881:android:f7848a6b1e89c437c52b88",
+        "android_client_info": {
+          "package_name": "com.example.flutter_geolocation_test2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALDNpdn_cxSyRoAGUBzglk9Guorim-QZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
